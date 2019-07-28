@@ -2,6 +2,7 @@
 Used Airbnb data for Seattle and Boston across 2016/2017 to provide valuable insights into Airbnb usage
 
 ### Libraries Imported
+<p>
 import requests
 from io import BytesIO
 from zipfile import ZipFile
@@ -16,5 +17,7 @@ import math
 from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import r2_score, mean_squared_error
+</p>
+
 
 ### 
