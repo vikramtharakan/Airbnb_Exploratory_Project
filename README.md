@@ -31,6 +31,7 @@ from sklearn.metrics import r2_score, mean_squared_error <br>
 * seattle.zip   --> Zip file containing data about bnbs from Seattle. Acquired by scraping it off of Airbnb's webiste
 * boston_folder	--> csv files from boston.zip file. Had to keep in a separate folder from the seattle csv files because the files from both of these zip folders have the same name
 * seattle_folder	--> csv files from seattle.zip file
+* blog_post --> Contains link for blog post about project on medium
 * AirbnbProject.ipynb	  --> Notebook containing all cleaning and analysis work
 
 ### Summary of Analysis
