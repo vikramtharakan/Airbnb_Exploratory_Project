@@ -20,7 +20,8 @@ from sklearn.metrics import r2_score, mean_squared_error <br>
 <p>
   In this project I took data directly from Airbnb's website for Seattle and Boston over 2 years to try and understand trends with the data. Specifically, I try and answer 3 questions:
   <ol>
-    <li>How does the average number of booked bnb's fluctuate throughout the year?</li>
-    <li>Were certain words used more often than others in the names of different bnbs? Were any words associated with higher ratings?</li>
+    <li>How does the average number of booked bnb's fluctuate throughout the year? How does it differ by city?</li>
+    <li>Were certain words used more often than others in the names of different bnbs? Were any words associated with higher ratings or different prices?</li>
     <li>Can we Predict the Pricing of different bnbs? What factors are the biggest indicators of price?</li>
   </ol>
+</p>
