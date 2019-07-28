@@ -3,7 +3,6 @@ Used Airbnb data for Seattle and Boston across 2016/2017 to provide valuable ins
 
 ### Libraries Imported
 import requests <br>
-from io import BytesIO <br>
 from zipfile import ZipFile <br>
 from os import path, getcwd, makedirs, listdir <br>
 import pandas as pd <br>
