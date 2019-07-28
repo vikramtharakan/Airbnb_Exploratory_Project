@@ -25,3 +25,10 @@ from sklearn.metrics import r2_score, mean_squared_error <br>
     <li>Can we Predict the Pricing of different bnbs? What factors are the biggest indicators of price?</li>
   </ol>
 </p>
+
+### Files in the Repository 
+
+
+### Summary of Analysis
+
+### Acknowledgements
