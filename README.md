@@ -33,6 +33,8 @@ from sklearn.metrics import r2_score, mean_squared_error <br>
 * seattle_folder	--> csv files from seattle.zip file
 * blog_post --> Contains link for blog post about project on medium
 * AirbnbProject.ipynb	  --> Notebook containing all cleaning and analysis work
+* AirbnbProject.html	  --> HTML version of the notebook for quick viewing
+
 
 ### Summary of Analysis
 <p> 
